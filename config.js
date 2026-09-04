@@ -10,6 +10,6 @@
 // this key. See README.md for the full setup walkthrough.
 
 window.SUPABASE_CONFIG = {
-  url: 'https://egarrjjvarxkqqubuznl.supabase.co',
-  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVnYXJyamp2YXJ4a3FxdWJ1em5sIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg0OTgxNDYsImV4cCI6MjEwNDA3NDE0Nn0.2fvddtiu9VDfEwGtLzjTBSvQFefNfZmdu5tOnxVgTME'
+  url: 'https://adxpdaovopffxbhsykje.supabase.co',
+  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFkeHBkYW92b3BmZnhiaHN5a2plIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg1MDA0ODYsImV4cCI6MjEwNDA3NjQ4Nn0.MSIO7zDesM2yBwMSLGQEtY39bwQhyTPVSS_W_K4Efsc'
 };
